@@ -1,0 +1,7 @@
+com.example.uesanapp-pngs-0 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\build\generated\res\pngs\debug
+com.example.uesanapp-updated_navigation_xml-1 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\build\generated\updated_navigation_xml\debug
+com.example.uesanapp-packageDebugResources-2 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.uesanapp-packageDebugResources-3 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.uesanapp-debug-4 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.uesanapp-debug-5 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\src\debug\res
+com.example.uesanapp-main-6 C:\Users\crisg\Downloads\UESANApp-master\UESANApp-master\app\src\main\res
